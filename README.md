@@ -1,7 +1,7 @@
 
 # SWT Group 6
 
-Repo ligger i zip
+
 ## Members
 
 | Name                   | Student Number |
